@@ -9,17 +9,20 @@ __句子：__
 
 __单词：__
 
-	pen n. 钢笔
-	pencil n. 铅笔
-	book n. 书
-	notebook n. 笔记本
-	note n. 笔记
-	watch n. 手表
-	coat n. 外套
-	hair n. 头发
-	dress n. 连衣裙
-	skirt n. 短裙
-	
+
+|单词|词性|中文| 
+|---|---|---|
+|pen|n.|钢笔|
+|pencil|n.|铅笔|
+|book|n.|书|
+|notebook|n.|笔记本|
+|note|n.|笔记|
+|watch|n.|手表|
+|coat|n.|外套|
+|hair|n.|头发|
+|dress|n.|连衣裙|
+|skirt|n.|短裙|
+
 
 __句子：__
 
